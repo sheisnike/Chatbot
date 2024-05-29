@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+    background-color: #e8f5e9; /* Colore originale della pagina */
+    color: #2e7d32;
+}
+.stButton>button {
+    background-color: #66bb6a;
+    color: white;
+}
+.stTitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    color: #1b5e20;
+    text-align: center;
+    margin-bottom: 0;
+}
+.stHeader {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    color: #1b5e20;
+}
+.stExpander {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    color: #1b5e20;
+}
+.stMarkdown {
+    font-family: 'Roboto', sans-serif;
+    color: #2e7d32;
+}
+.stChatMessage {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #cccccc;
+}
+.stChatInput {
+    background-color: #ffffff;
+}
